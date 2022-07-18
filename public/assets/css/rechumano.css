@@ -1,0 +1,65 @@
+body {
+	width: relative;
+	margin:0 auto;
+	background-color: #FFF5EE
+	font: 12px Arial;
+
+}
+
+
+.ui.color3.button {
+  background-color: #669985;  /* #53B28C; #1FABA4;*/
+  color: #fff;
+}
+
+.ui.color5.button {
+  background-color: #50826E;  /*#41896C;  #008B8B; */
+  color: #fff;
+}
+
+
+.ui.color6.menu {
+  background-color: #af3c41;  /*#41896C;  #008B8B; */
+  color: #fff;
+}
+
+.ui.color4.segment {
+  background-color: #D2B48C; /* 53B28C;  B79274*/
+  color: #fff;
+}
+
+.ui.color7.header {
+	     color: #af3c41; 
+	    /* #902C2C;*/
+}
+
+input {
+	height: 35px;
+	padding-right: 10px;
+	vertical-align: middle;
+}
+
+input[radio] {
+	padding: 0px 0px 0px 0px;
+}
+
+
+label {
+	   line-height: 35px;
+	   font-weight: bold;
+       margin-right: 20px;
+}
+
+legend {
+	     font: 25px Arial;
+	     color: #af3c41; 
+	    /* #902C2C;*/
+}
+
+hr {
+	border: none;
+	background-color: #ccc;
+	color: #ccc; 
+	height: 1px;
+}
+
