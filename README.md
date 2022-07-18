@@ -1,1 +1,1 @@
-Projeto de rotinas do RH
+Projeto de automatização das rotinas do RH
